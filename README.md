@@ -28,9 +28,8 @@ The model takes user inputs such as **Age, Gender, Height, Weight, and BMI** and
 The model was trained and evaluated in `Classic_ML.ipynb` with the following steps:
 - Train-test split applied to ensure generalization.  
 - Performance metrics (Accuracy, Precision, Recall, and F1-score) were computed.  
-- The Random Forest model achieved **high accuracy** in classifying obesity categories, showing robustness compared to single decision trees.  
-
-*(You can add exact metrics here once finalized.)*  
+- The Random Forest model achieved **high accuracy** in classifying obesity categories, showing robustness compared to single decision trees.
+- Classification Report for Summary Results of Evaluation.
 
 ---
 
@@ -54,6 +53,11 @@ The model was trained and evaluated in `Classic_ML.ipynb` with the following ste
 
 ## 🔗 Dataset Link:
 https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset
+
+## Future Improvements:
+- Use Deep Learining Models (ANNs) on the Same Dataset.
+- Deploy it as MLOps stage.
+- Discover more complex BMI dataset with more features and missing values.
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
