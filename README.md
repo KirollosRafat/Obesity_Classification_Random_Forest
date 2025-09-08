@@ -52,6 +52,9 @@ The model was trained and evaluated in `Classic_ML.ipynb` with the following ste
 
 ---
 
+## 🔗 Dataset Link:
+https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset
+
 ## 📜 License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this software with proper attribution.  
